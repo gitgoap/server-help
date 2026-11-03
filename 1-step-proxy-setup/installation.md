@@ -10,6 +10,8 @@
 | `proxyoff` | None | Disable Proxy |
 | `proxycheck` | Current | Check Internet |
 
+Go to dir: `home\account-name` (e.g. `home\aman`)
+
 ## 2. Create Bash Script
 
 ```bash
